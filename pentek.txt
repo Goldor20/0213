@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 valentin nap 😍
 asd
+=======
+<<<<<<< HEAD
+valentin nap 😍
+=======
+asd
+>>>>>>> 93f3e5851f43c95d2537f0f78bdc95834bec2481
+>>>>>>> menu
